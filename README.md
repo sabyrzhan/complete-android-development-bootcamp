@@ -6,6 +6,8 @@ Currently I have completed following chapters:
 * Chapter 3: Something like homework: build "I am Poor" application similar to "I am Rich" app
 
 ## Useful resources
+* https://romannurik.github.io/AndroidAssetStudio/index.html - Android Icon Generator
+* https://appicon.co - online icon generator for IOS and Android
 * https://flatuicolors.com/ - online color picker
 * https://www.uicolor.io/ - online converter of colors to UIColor
 * https://fonts.google.com/ - free to use Fonts
