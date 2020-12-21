@@ -3,7 +3,8 @@
 This is the repository which contains my progress while learning every chapter from Udemy's course.
 
 Currently I have completed following chapters:
-* Chapter 3: Something like homework: build "I am Poor" application similar to "I am Rich" app. Stopped at video 21.
+* Something like homework: build "I am Poor" application similar to "I am Rich" app.
+* Created Dicee app. Stopped at video 34.
 
 ## Useful resources
 * https://romannurik.github.io/AndroidAssetStudio/index.html - Android Icon Generator
